@@ -28,5 +28,9 @@ hs_err_pid*
 __pycache__/
 .pytest_cache/
 
+# Wiki files too large to commit
 **/BigWiki.xml
 **/MedWiki.xml
+
+# Output of pytest unit tests
+**/results.json

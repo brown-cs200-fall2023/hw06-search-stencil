@@ -1,6 +1,11 @@
 import pytest
 from index import Indexer
 
+# Here's an example test case to make sure your tests are working
+# Remember that all test functions must start with "test"
+def test_example():
+    assert 2 == 1 + 1
+
 '''
 Uncomment when ready to use!
 
