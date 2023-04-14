@@ -27,3 +27,6 @@ hs_err_pid*
 
 __pycache__/
 .pytest_cache/
+
+**/BigWiki.xml
+**/MedWiki.xml
