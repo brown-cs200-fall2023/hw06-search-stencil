@@ -1,0 +1,4 @@
+pytest
+nltk
+tqdm
+numpy
